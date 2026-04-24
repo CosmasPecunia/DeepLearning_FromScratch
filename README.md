@@ -1,4 +1,4 @@
-# Deep Learning From Scratch - Donut Project 🍩
+# Deep Learning From Scratch - donut project 
 
 Ce projet implémente un réseau de neurones complet sans bibliothèques spécialisées.
 
